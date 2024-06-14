@@ -1,0 +1,1 @@
+DELETE FROM shohin WHERE shohin.shohin_id = 0009

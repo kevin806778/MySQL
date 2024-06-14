@@ -1,0 +1,1 @@
+INSERT INTO shohincopy SELECT * FROM  shohinins;

@@ -1,0 +1,1 @@
+SELECT * FROM shohin WHERE NOT sell_price >= 1000;
